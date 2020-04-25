@@ -22,6 +22,9 @@ ASICs or **Application Specific Integrated Circuits** are specialized computer c
 
 Finding out where this computational advantage comes from is one of the central tasks of quantum computing research. There is a [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/), which lists many of the known algorithms that give speedup over classical methods. Much of the focus of The Singularity is to research these various applications and algorithms and implement them in various quantum computing languages. Some applications include using Shor's algorithm to break RSA public key cryptography and other algorithms that break elliptic curve cryptography. If you are interested in discovering the inner workings of quantum algorithms and trying to understand where this quantum supremecy or advantage comes from, check out these lecture. 
 
+### Quantikz
+If you are a Donald Knuth fan and love LaTeX too, check out the TikZ library [quantikz](https://ctan.org/pkg/quantikz?lang=en). It is a LaTeX library for constructing quantum circuit diagrams. It was used for rendering many of the quantum circuit diagrams in the following lectures. 
+
 ## Lectures
 Below are lecture using Jupyter notebooks that fully develop all of the basic math and programming that is needed to start solving quantum computing problems. They start out with basic linear algebra, and explain the notion of quantum gates (similar to classical logical gates in classical computers). 
 
