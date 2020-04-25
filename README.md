@@ -13,4 +13,6 @@ This is course material for a course on linear algebra and mathematical prerequi
 - Lecture 8: [Matrices in Python](https://mybinder.org/v2/gh/The-Singularity-Research/linear_algebra_for_quantum_computing/a8ec8bedd5fd4ce6b6b4ca2ca1c4142c732e42ed?filepath=lecture_8_matrices.ipynb)
 - Lecture 9: [Tensor Products of Matrices in Python](https://mybinder.org/v2/gh/The-Singularity-Research/linear_algebra_for_quantum_computing/a8ec8bedd5fd4ce6b6b4ca2ca1c4142c732e42ed?filepath=lecture_9_tensor_product_matrices.ipynb)
 - Lecture 10: [Quantum Logic Gates as Matrices](https://mybinder.org/v2/gh/The-Singularity-Research/linear_algebra_for_quantum_computing/a8ec8bedd5fd4ce6b6b4ca2ca1c4142c732e42ed?filepath=lecture_10_quantum_gates.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-Singularity-Research/linear_algebra_for_quantum_computing/master?filepath=lecture_10_quantum_gates.ipynb)
+
 
