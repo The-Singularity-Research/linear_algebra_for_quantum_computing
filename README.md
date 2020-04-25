@@ -5,7 +5,7 @@ This is course material for a course on linear algebra and mathematical prerequi
 
 - Lecture 1: What is Quantum Computing?
 - Lecture 2: [Complex Numbers in Python](https://mybinder.org/v2/gh/The-Singularity-Research/linear_algebra_for_quantum_computing/master?filepath=lecture_2_complex_numbers.ipynb)
-- Lecture 3: [Vectors in Python](https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing/blob/master/lecture_3_vectors.ipynb)
+- Lecture 3: [Vectors in Python](https://mybinder.org/v2/gh/The-Singularity-Research/linear_algebra_for_quantum_computing/a308ba5a8c55cc7ccbd0ac623d9d45816fb0db5e?filepath=lecture_3_vectors.ipynb)
 - Lecture 4: [Inner Products and Unit Vectors](https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing/blob/master/lecture_4_inner_products.ipynb)
 - Lecture 5: [The Bloch Sphere and Representing Qubits](https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing/blob/master/lecture_5_bloch_sphere.ipynb)
 - Lecture 6: [Tensor Products of Vectors in Python](https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing/blob/master/lecture_6_tensor_products.ipynb)
