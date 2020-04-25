@@ -2,10 +2,11 @@
 This is course material for a course on linear algebra and mathematical prerequisites for quantum computing. It contains Jupyter notebooks that can be downloaded as part of the course or opened in Binder as an online interactive notebook. 
 
 ## Why Linear Algebra?
-Linear algebra, the language of matrices and vectors, is the fundamental language of quantum computing and quantum information. Approaching quantum computing through linear algebra is the approach taken in the most cited textbook on the subject:
+Linear algebra, the language of matrices and vectors, is the fundamental language of quantum computing and quantum information. Approaching quantum computing through linear algebra is the approach taken in the most cited textbook on the subject: 
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=singularity07-20&marketplace=amazon&region=US&placement=1107002176&asins=1107002176&linkId=cf594f57acf63305d20820ac48e906ed&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
+####["Quantum Computation and Quantum Information"](https://www.amazon.com/gp/product/1107002176/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1107002176&linkCode=as2&tag=singularity07-20&linkId=10080ebd13739525bdfd76be97682775) 
+
+
     
 
 
