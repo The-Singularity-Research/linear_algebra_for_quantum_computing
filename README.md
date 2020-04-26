@@ -8,6 +8,7 @@ Interested in contributing to this project?
 - Ask to Join the Slack Channel.
 
 This is course material for a course on linear algebra and mathematical prerequisites for quantum computing. It contains Jupyter notebooks that can be downloaded as part of the course or opened in Binder as an online interactive notebook. 
+
 ---
 
 ## Why Linear Algebra?
