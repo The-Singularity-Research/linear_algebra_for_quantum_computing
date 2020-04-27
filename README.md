@@ -9,6 +9,8 @@ Interested in contributing to this project?
 
 This is course material for a course on linear algebra and mathematical prerequisites for quantum computing. It contains Jupyter notebooks that can be downloaded as part of the course or opened in Binder as an online interactive notebook. 
 
+[Become a Sponsor of The Singularity](https://github.com/sponsors/The-Singularity-Research)
+
 ---
 
 ## Why Linear Algebra?
