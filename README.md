@@ -39,7 +39,8 @@ If you are a Donald Knuth fan and love LaTeX too, check out the TikZ library [qu
 ## Lectures
 Below are lectures using Jupyter notebooks that fully develop all of the basic math and programming that is needed to start solving quantum computing problems. They start out with basic linear algebra, and explain the notion of quantum gates (similar to classical logical gates in classical computers). 
 
-- Lecture 1: What is Quantum Computing?
+- Lecture 1: [What is Quantum Computing?](https://mybinder.org/v2/gh/The-Singularity-Research/linear_algebra_for_quantum_computing/master?filepath=Intro.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-Singularity-Research/linear_algebra_for_quantum_computing/master?filepath=Intro.ipynb)
 - Lecture 2: [Complex Numbers in Python](https://mybinder.org/v2/gh/The-Singularity-Research/linear_algebra_for_quantum_computing/master?filepath=lecture_2_complex_numbers.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-Singularity-Research/linear_algebra_for_quantum_computing/master?filepath=lecture_2_complex_numbers.ipynb)
 - Lecture 3: [Vectors in Python](https://mybinder.org/v2/gh/The-Singularity-Research/linear_algebra_for_quantum_computing/a308ba5a8c55cc7ccbd0ac623d9d45816fb0db5e?filepath=lecture_3_vectors.ipynb)
