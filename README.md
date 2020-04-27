@@ -37,7 +37,7 @@ Finding out where this computational advantage comes from is one of the central 
 If you are a Donald Knuth fan and love LaTeX too, check out the TikZ library [quantikz](https://ctan.org/pkg/quantikz?lang=en). It is a LaTeX library for constructing quantum circuit diagrams. It was used for rendering many of the quantum circuit diagrams in the following lectures. 
 
 ## Lectures
-Below are lectures using Jupyter notebooks that fully develop all of the basic math and programming that is needed to start solving quantum computing problems. They start out with basic linear algebra, and explain the notion of quantum gates (similar to classical logical gates in classical computers). 
+Below are lectures using Jupyter notebooks that fully develop all of the basic math and programming that is needed to start solving quantum computing problems. They start out with basic linear algebra, and explain the notion of quantum gates (similar to classical logical gates in classical computers). Click on the "launch binder" button to open the interactive version. 
 
 - Lecture 1: [What is Quantum Computing?](https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing/blob/master/Intro.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-Singularity-Research/linear_algebra_for_quantum_computing/master?filepath=Intro.ipynb)
